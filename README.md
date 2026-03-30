@@ -1,4 +1,4 @@
-# ✨ Hey there, I'm Priyanka S A
+# ✨ Hey there, I'm Priyanka S 
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=22&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
 
@@ -23,47 +23,57 @@
 
 ---
 
-### 💡 🎓 MentorConnect Platform
-> A full-stack mentoring system connecting mentors and mentees  
+## 🎓 MentorConnect Platform  
+<p>
+<img src="https://via.placeholder.com/800x300.png?text=MentorConnect+Project+Preview" />
+</p>
 
-✨ Features:
-- 📅 Appointment booking  
-- 💬 Chat system  
+💡 **A full-stack mentoring system connecting mentors & mentees**
+
+✨ **Key Features:**
+- 📅 Smart appointment booking  
+- 💬 Real-time chat system  
 - 🎥 Video call integration  
 - 📊 Admin dashboard  
 
-🔗 *Add your GitHub repo link here*
+🔗 [View Project](https://github.com/Priyanka-S-A/YOUR-REPO-LINK)
 
 ---
 
-### 💰 Expense Tracker
-> Smart web app to track income & expenses  
+## 💰 Expense Tracker  
+<p>
+<img src="https://via.placeholder.com/800x300.png?text=Expense+Tracker+Preview" />
+</p>
 
-✨ Features:
+💡 **Track income and expenses easily**
+
+✨ **Key Features:**
 - 📊 Expense visualization  
 - 🗂️ Category management  
 - 💾 SQLite database  
 
-🔗 *Add your repo link*
+🔗 [View Project](https://github.com/Priyanka-S-A/YOUR-REPO-LINK)
 
 ---
 
-### 🏧 ATM System
-> Java-based banking simulation system  
+## 🏧 ATM System  
 
-✨ Features:
-- 💳 Withdraw & deposit  
+💡 **Java-based banking simulation**
+
+✨ **Key Features:**
+- 💳 Deposit & withdraw  
 - 🔐 Secure login  
-- 🗄️ MySQL integration  
+- 🗄️ MySQL database  
 
 ---
 
-### ✅ To-Do List App
-> Task manager with priority & deadlines  
+## ✅ To-Do List App  
 
-✨ Features:
+💡 **Task manager with priorities**
+
+✨ **Key Features:**
 - ✔️ Task tracking  
-- 📅 Due dates  
+- 📅 Deadlines  
 - 🔄 Sorting system  
 
 ---
