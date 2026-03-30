@@ -90,11 +90,12 @@
 🔗 [View Project](https://github.com/Priyanka-S-A/Simple-ATM-System)
 
 ---
-## 📊 GitHub Activity
+## 🌟 Highlights
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanka-S-A&show_icons=true&theme=tokyonight" />
-</p>
+- 🚀 Built multiple real-world projects using Java, Flask & MySQL  
+- 💻 Strong in backend development and database integration  
+- 📊 Experience in building full-stack applications  
+- 🎯 Focused on becoming a professional software developer  
 
 ---
 
