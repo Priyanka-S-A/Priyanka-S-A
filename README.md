@@ -24,60 +24,72 @@
 ---
 
 ## 🎓 MentorConnect Platform  
-<p>
-<img src="https://via.placeholder.com/800x300.png?text=MentorConnect+Project+Preview" />
-</p>
 
 💡 **A full-stack mentoring system connecting mentors & mentees**
 
 ✨ **Key Features:**
-- 📅 Smart appointment booking  
-- 💬 Real-time chat system  
+- 📅 Appointment booking system  
+- 💬 Chat functionality  
 - 🎥 Video call integration  
 - 📊 Admin dashboard  
 
-🔗 [View Project](https://github.com/Priyanka-S-A/YOUR-REPO-LINK)
+🔗 [View Project](https://github.com/Priyanka-S-A/MentorConnect)
 
 ---
 
-## 💰 Expense Tracker  
-<p>
-<img src="https://via.placeholder.com/800x300.png?text=Expense+Tracker+Preview" />
-</p>
+## 🔐 MentorConnect (Google Auth Version)
 
-💡 **Track income and expenses easily**
+💡 **Enhanced MentorConnect with secure Google Authentication**
 
 ✨ **Key Features:**
-- 📊 Expense visualization  
-- 🗂️ Category management  
-- 💾 SQLite database  
+- 🔑 Google login integration  
+- 👤 User authentication system  
+- 🔒 Secure access control  
 
-🔗 [View Project](https://github.com/Priyanka-S-A/YOUR-REPO-LINK)
+🔗 [View Project](https://github.com/Priyanka-S-A/MentorConnect-Innovexa-GoogleAuth)
 
 ---
 
-## 🏧 ATM System  
+## 🪑 Exam Seating Arrangement System  
 
-💡 **Java-based banking simulation**
+💡 **System to automate student seating allocation**
 
 ✨ **Key Features:**
-- 💳 Deposit & withdraw  
-- 🔐 Secure login  
-- 🗄️ MySQL database  
+- 🧮 Automatic seat allocation  
+- 📋 Student data handling  
+- 🏫 Organized exam hall management  
+
+🔗 [View Project](https://github.com/Priyanka-S-A/exam-seating-arrangement-system)
 
 ---
 
-## ✅ To-Do List App  
+## 🛒 E-Commerce Cart System  
 
-💡 **Task manager with priorities**
+💡 **Java-based shopping cart system with database integration**
 
 ✨ **Key Features:**
-- ✔️ Task tracking  
-- 📅 Deadlines  
-- 🔄 Sorting system  
+- 🛍️ Add/remove products  
+- 🧾 Cart management  
+- 🗄️ MySQL database connection  
+
+🔗 [View Project](https://github.com/Priyanka-S-A/E-Commerce-Cart-System)
 
 ---
 
+## 🏧 ATM System (Java + JDBC)
+
+💡 **Console-based banking system using Java and MySQL**
+
+✨ **Key Features:**
+- 🔐 Login using account number & PIN  
+- 💰 Balance checking  
+- ➕ Deposit money  
+- ➖ Withdraw with validation  
+- 🗄️ MySQL database integration  
+
+🔗 [View Project](https://github.com/Priyanka-S-A/Simple-ATM-System)
+
+---
 ## 📊 GitHub Activity
 
 <p align="center">
